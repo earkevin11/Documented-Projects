@@ -1,6 +1,6 @@
-# Kevin-s-Authored-Cloud-Security-Documentation
+# Cloud-Security-Documentation
 
-# Purpose: Store documentation of projects and work I've done related to Cloud Security
+# Purpose: Documente projects and workflows I've created related to Cloud Security
 
 # Azure Policies
 # Secure by default and Shift-left security
