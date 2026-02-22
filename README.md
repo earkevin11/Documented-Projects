@@ -1,6 +1,6 @@
 # Cloud-Security-Documentation
 
-# Purpose: Documente projects and workflows I've created related to Cloud Security
+# Purpose: Document my cloud security projects and experiences
 
 # Azure Policies
 # Secure by default and Shift-left security
