@@ -3,8 +3,6 @@
 # Purpose: Document my cloud security projects and experiences
 
 # Azure Policies
-# Secure by default and Shift-left security
-
 - [Implementing-governance-within-Azure-using-Azure-Policies]
 - [Applying Exemptions to an Azure Policy](https://github.com/earkevin11/Kevin-s-Authored-Cloud-Security-Documentation/blob/main/Applying%20Exemptions%20to%20a%20Azure%20Policy%20-%20Overview%20-%20KE.pdf)
 - [Removing exclusions and applying exclusions from Azure Policy enforcement](https://github.com/earkevin11/Kevin-s-Authored-Cloud-Security-Documentation/blob/main/Removing%20exclusions%20and%20Applying%20exclusions%20to%20Azure%20Policy%20-%20Overview%20-%20KE.pdf)
@@ -12,6 +10,9 @@
 - [Deny Creation of Azure Key Vaults if public access is enabled](https://github.com/earkevin11/Deny-creation-of-Azure-Key-Vault-from-allowing-public-access-to-all-networks/blob/main/README.md)
 - [Allowed resources](https://github.com/earkevin11/Implementing-governance-within-Azure-using-Azure-Policies)
 - [Configure logging (diagnostic settings) for Azure resources to ensure monitoring/audit]
+
+# Terraform
+- [Provisioning Azure resources using IaC and Gitlab CI/CD Pipeline](https://github.com/earkevin11/Azure-IaC-Terraform-GitlabPipeline)
 
 # Securing secrets and API keys in an Azure Key Vault
 - [Securing API keys and secrets in Key Vault](https://github.com/earkevin11/Kevin-s-Authored-Cloud-Security-Documentation/blob/main/Secure_storage_of_credentials_in_Azure_Key_Vaults_-_Overview%20-%20KE.pdf)
