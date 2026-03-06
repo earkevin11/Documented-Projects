@@ -12,7 +12,7 @@
 - [Configure logging (diagnostic settings) for Azure resources to ensure monitoring/audit]
 
 # Terraform
-- [Provisioning Azure resources using Terraform using Gitlab CI/CD Pipeline](https://github.com/earkevin11/Azure-IaC-Terraform-GitlabPipeline)
+- [Provisioning Azure resources with Terraform using Gitlab CI/CD Pipeline](https://github.com/earkevin11/Azure-IaC-Terraform-GitlabPipeline)
 
 # Securing secrets and API keys in an Azure Key Vault
 - [Securing API keys and secrets in Key Vault](https://github.com/earkevin11/Kevin-s-Authored-Cloud-Security-Documentation/blob/main/Secure_storage_of_credentials_in_Azure_Key_Vaults_-_Overview%20-%20KE.pdf)
