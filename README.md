@@ -11,7 +11,8 @@
 - [Configure logging (diagnostic settings) for Azure resources to ensure monitoring/audit]
 
 # Terraform
-- [Provisioning Azure resources with Terraform using Gitlab CI/CD Pipeline](https://github.com/earkevin11/Azure-IaC-Terraform-GitlabPipeline)
+- [Understand Terraform and Gitlab YAML files](https://github.com/earkevin11/Azure-IaC-Terraform-GitlabPipeline)
+- [HOW TO: Combining Terraform with Gitlab to deploy Azure Infrastructure at scale](https://github.com/earkevin11/HOW-TO-Run-Terraform-with-Gitlab-CI-CD)
 - [Deploy Azure resources at scale to test Azure Policy Allowed Resources]
 
 # Securing secrets and API keys in an Azure Key Vault
