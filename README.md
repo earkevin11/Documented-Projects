@@ -12,6 +12,7 @@
 
 # Terraform
 - [Provisioning Azure resources with Terraform using Gitlab CI/CD Pipeline](https://github.com/earkevin11/Azure-IaC-Terraform-GitlabPipeline)
+- [Deploy Azure resources at scale to test Azure Policy Allowed Resources]
 
 # Securing secrets and API keys in an Azure Key Vault
 - [Securing API keys and secrets in Key Vault](https://github.com/earkevin11/Kevin-s-Authored-Cloud-Security-Documentation/blob/main/Secure_storage_of_credentials_in_Azure_Key_Vaults_-_Overview%20-%20KE.pdf)
