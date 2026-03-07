@@ -11,7 +11,7 @@
 - [Configure logging (diagnostic settings) for Azure resources to ensure monitoring/audit]
 
 # Terraform
-- [Understand Terraform and Gitlab YAML files](https://github.com/earkevin11/Azure-IaC-Terraform-GitlabPipeline)
+- [Understand Terraform and Gitlab YAML files](https://github.com/earkevin11/Azure-IaC-Terraform-GitlabPipeline/settings)
 - [HOW TO: Combining Terraform with Gitlab to deploy Azure Infrastructure at scale](https://github.com/earkevin11/HOW-TO-Run-Terraform-with-Gitlab-CI-CD)
 - [Deploy Azure resources at scale to test Azure Policy Allowed Resources]
 
