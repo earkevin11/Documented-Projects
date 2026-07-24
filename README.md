@@ -18,7 +18,8 @@
 # Securing secrets and API keys in an Azure Key Vault
 - [Securing API keys and secrets in Key Vault](https://github.com/earkevin11/Kevin-s-Authored-Cloud-Security-Documentation/blob/main/Secure_storage_of_credentials_in_Azure_Key_Vaults_-_Overview%20-%20KE.pdf)
 
-
+# App Registration / Service Principal Intake Form
+- [App Registration/Service Principal Intake Form](https://github.com/earkevin11/Entra-App-Registration-and-Service-Principal-Intake-Form/blob/main/README.md#2-authentication-method)
 
 # CrowdStrike Falcon Cloud Security Posture Management 
 
